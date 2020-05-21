@@ -433,7 +433,7 @@ ul {
 }
 
 .section_bg {
-  background-color: #f4edf278;
+  background-color: #ffe3e378;
 }
 
 /**************** common css end ****************/
@@ -4529,7 +4529,7 @@ input:focus {
 }
 
 .check_title h2 a {
-  color: #B08EAD;
+  color: #c1272d;
   text-decoration: underline;
 }
 
@@ -4890,7 +4890,7 @@ input:focus {
 }
 
 .order_box .creat_account a {
-  color: #B08EAD;
+  color: #c1272d;
 }
 
 .order_box .btn_3 {
@@ -7195,8 +7195,8 @@ h6 {
 }
 
 .form-contact .form-group .button-contactForm {
-  color: #B08EAD !important;
-  border: 1px solid #B08EAD;
+  color: #c1272d !important;
+  border: 1px solid #c1272d;
 }
 
 .form-contact .form-group .button-contactForm:hover {
@@ -7412,7 +7412,7 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #B08EAD;
+  background-color: #c1272d;
 }
 
 .breadcrumb_part .breadcrumb_iner {
@@ -7516,7 +7516,7 @@ h6 {
   height: 45px;
   width: 45px;
   border-radius: 50%;
-  background-color: #4B3049;
+  background-color: #b6272d;
   line-height: 45px;
   color: #fff;
   display: inline-block;
@@ -7528,7 +7528,7 @@ h6 {
 }
 
 .footer_part .copyright_part {
-  background-color: #F4EDF2;
+  background-color: #ffe3e3;
   padding: 30px 0px;
 }
 
