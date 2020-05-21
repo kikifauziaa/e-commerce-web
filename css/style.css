@@ -161,7 +161,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #4B3049;
+  color: #86272d;
   font-family: "Poppins", sans-serif;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -179,7 +179,7 @@ p {
 h2 {
   font-size: 44px;
   line-height: 28px;
-  color: #4B3049;
+  color: #86272d;
   font-weight: 600;
   line-height: 1.222;
 }
@@ -247,7 +247,7 @@ button:focus,
 
 .section_tittle h2 {
   font-size: 36px;
-  color: #4B3049;
+  color: #86272d;
   line-height: 27px;
   font-weight: 700;
   position: relative;
@@ -466,8 +466,8 @@ ul {
   display: inline-block;
   padding: 17px 50px;
   border-radius: 5px;
-  background-color: #B08EAD;
-  border: 2px solid #B08EAD;
+  background-color: #c1272d;
+  border: 2px solid #c1272d;
   font-size: 15px;
   font-weight: 500;
   -webkit-transition: 0.5s;
@@ -478,7 +478,7 @@ ul {
 
 .btn_1:hover {
   background-color: #fff;
-  color: #B08EAD;
+  color: #c1272d;
 }
 
 @media (max-width: 991px) {
@@ -492,10 +492,10 @@ ul {
   padding: 18px 36px;
   border-radius: 5px;
   background-color: transparent;
-  border: 1px solid #B08EAD;
+  border: 1px solid #c1272d;
   font-size: 15px;
   font-weight: 700;
-  color: #B08EAD;
+  color: #c1272d;
   text-transform: uppercase;
   font-weight: 400;
   -webkit-transition: 0.5s;
@@ -503,7 +503,7 @@ ul {
 }
 
 .btn_3:hover {
-  background-color: #B08EAD;
+  background-color: #c1272d;
   color: #fff;
 }
 
@@ -532,7 +532,7 @@ ul {
 
 .btn_2:hover {
   color: #fff !important;
-  background-color: #B08EAD;
+  background-color: #c1272d;
 }
 
 @media (max-width: 991px) {
@@ -544,7 +544,7 @@ ul {
 }
 
 .btn_4 {
-  color: #B08EAD;
+  color: #c1272d;
   font-size: 15px;
   font-weight: 700;
   margin-top: 53px;
@@ -576,7 +576,7 @@ ul {
   color: #fff;
   border: 1px solid #edeff2;
   text-transform: uppercase;
-  background-color: #B08EAD;
+  background-color: #c1272d;
   cursor: pointer;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -636,9 +636,10 @@ ul {
   transition: 0.5s;
 }
 
+/* line 14, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
 .blog_area a:hover,
 .blog_area a :hover {
-  color: #B08EAD;
+  color: #c1272d;
 }
 
 .single-blog {
@@ -1076,7 +1077,7 @@ ul {
 }
 
 .blog_details a:hover {
-  color: #B08EAD !important;
+  color: #c1272d !important;
 }
 
 .blog_details h2 {
@@ -1134,7 +1135,7 @@ ul {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #B08EAD;
+  background-color: #c1272d;
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -1326,7 +1327,7 @@ ul {
 }
 
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #B08EAD;
+  background: #c1272d;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;
@@ -1538,7 +1539,7 @@ ul {
 }
 
 .single-post-area .blog-author a:hover {
-  color: #B08EAD;
+  color: #c1272d;
 }
 
 .single-post-area .blog-author p {
@@ -1812,8 +1813,8 @@ ul {
 }
 
 .single_sidebar_widget .btn_1:hover {
-  color: #B08EAD !important;
-  border: 1px solid #B08EAD;
+  color: #c1272d !important;
+  border: 1px solid #c1272d;
 }
 
 /*============ End Blog Single Styles  =============*/
@@ -1835,7 +1836,7 @@ ul {
 }
 
 .single_blog_post .single_blog .single_appartment_content p a {
-  color: #B08EAD;
+  color: #c1272d;
 }
 
 .single_blog_post .single_blog .single_appartment_content h4 {
@@ -1877,7 +1878,7 @@ ul {
 }
 
 .main_menu .main-menu-item ul li .nav-link {
-  color: #4B3049;
+  color: #86272d;
   font-size: 16px;
   padding: 35px 21px;
   font-family: "Rubik", sans-serif;
@@ -1916,7 +1917,7 @@ ul {
   max-width: 1140px;
   z-index: 999;
   text-align: center;
-  background: #B08EAD;
+  background: #c1272d;
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
 }
 
@@ -1967,7 +1968,7 @@ ul {
 }
 
 .main_menu a i {
-  color: #4B3049 !important;
+  color: #86272d !important;
   position: relative;
   z-index: 1;
   font-size: 20px;
@@ -1997,7 +1998,7 @@ ul {
 }
 
 .menu_fixed .active_color {
-  color: #B08EAD !important;
+  color: #c1272d !important;
 }
 
 .dropdown .dropdown-menu {
@@ -2007,14 +2008,14 @@ ul {
   transform: scale(1, 0);
   display: block;
   border: 0px solid transparent;
-  background-color: #B08EAD;
+  background-color: #c1272d;
 }
 
 .dropdown .dropdown-menu .dropdown-item {
   font-size: 14px;
   padding: 8px 20px !important;
   color: #fff !important;
-  background-color: #B08EAD;
+  background-color: #c1272d;
   text-transform: capitalize;
 }
 
@@ -2072,11 +2073,12 @@ ul {
   .dropdown:hover .show {
     transform: scale(1);
     display: block;
-    color: #B08EAD;
+    color: #c1272d;
   }
 
+  /* line 208, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
   .dropdown .dropdown-item:hover {
-    color: #B08EAD !important;
+    color: #c1272d !important;
   }
 
   .navbar-brand img {
@@ -2162,7 +2164,7 @@ ul {
   content: "";
   left: 0;
   bottom: 0;
-  background-color: #B08EAD;
+  background-color: #c1272d;
   width: 196px;
   height: 618px;
 }
@@ -2237,7 +2239,7 @@ ul {
 }
 
 .banner_part .banner_text h1 span {
-  color: #B08EAD;
+  color: #c1272d;
 }
 
 .banner_part .banner_text p {
@@ -2377,7 +2379,7 @@ ul {
 .single_product_list .single_product_content h5 {
   font-weight: 500;
   font-size: 20px;
-  color: #B08EAD;
+  color: #c1272d;
 }
 
 @media (max-width: 991px) {
@@ -2394,7 +2396,7 @@ ul {
 }
 
 .single_product_list .single_product_content h2 a {
-  color: #4B3049;
+  color: #86272d;
 }
 
 .single_product_list .single_product_content h2 a:hover {
@@ -3465,10 +3467,11 @@ input:focus {
   position: relative;
 }
 
+/* line 300, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_product.scss */
 .p_filter_widgets .list li.active a:before,
 .p_filter_widgets .list li:hover a:before {
-  background: #B08EAD;
-  border-color: #B08EAD;
+  background: #c1272d;
+  border-color: #c1272d;
 }
 
 .p_filter_widgets .list li:last-child {
@@ -4768,7 +4771,7 @@ input:focus {
 }
 
 .billing_details .contact_form .form-group .creat_account a {
-  color: #B08EAD;
+  color: #c1272d;
 }
 
 .order_box {
@@ -5089,9 +5092,18 @@ input:focus {
 }
 
 .login_part .login_part_text {
-  background-image: -moz-linear-gradient(90deg, #B08EAD 0%, #4B3049 64%, #B08EAD 100%);
-  background-image: -webkit-linear-gradient(90deg, #B08EAD 0%, #4B3049 64%, #B08EAD 100%);
-  background-image: linear-gradient(90deg, #B08EAD 0%, #4B3049 64%, #B08EAD 100%);
+  background-image: -moz-linear-gradient(90deg,
+      #c1272d 0%,
+      #86272d 64%,
+      #c1272d 100%);
+  background-image: -webkit-linear-gradient(90deg,
+      #c1272d 0%,
+      #86272d 64%,
+      #c1272d 100%);
+  background-image: linear-gradient(90deg,
+      #c1272d 0%,
+      #86272d 64%,
+      #c1272d 100%);
   background-size: 200% auto;
 }
 
