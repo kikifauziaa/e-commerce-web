@@ -193,11 +193,7 @@ h2,
 h3,
 h5,
 h6 {
-<<<<<<< HEAD
-  color: #4b3049;
-=======
   color: #86272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   font-family: "Poppins", sans-serif;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -217,11 +213,7 @@ p {
 h2 {
   font-size: 44px;
   line-height: 28px;
-<<<<<<< HEAD
-  color: #4b3049;
-=======
   color: #86272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   font-weight: 600;
   line-height: 1.222;
 }
@@ -300,11 +292,7 @@ button:focus,
 /* line 186, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_common.scss */
 .section_tittle h2 {
   font-size: 36px;
-<<<<<<< HEAD
-  color: #4b3049;
-=======
   color: #86272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   line-height: 27px;
   font-weight: 700;
   position: relative;
@@ -557,13 +545,8 @@ ul {
   display: inline-block;
   padding: 17px 50px;
   border-radius: 5px;
-<<<<<<< HEAD
-  background-color: #b08ead;
-  border: 2px solid #b08ead;
-=======
   background-color: #c1272d;
   border: 2px solid #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   font-size: 15px;
   font-weight: 500;
   -webkit-transition: 0.5s;
@@ -575,11 +558,7 @@ ul {
 /* line 36, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_button.scss */
 .btn_1:hover {
   background-color: #fff;
-<<<<<<< HEAD
-  color: #b08ead;
-=======
   color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 @media (max-width: 991px) {
@@ -595,17 +574,10 @@ ul {
   padding: 18px 36px;
   border-radius: 5px;
   background-color: transparent;
-<<<<<<< HEAD
-  border: 1px solid #b08ead;
-  font-size: 15px;
-  font-weight: 700;
-  color: #b08ead;
-=======
   border: 1px solid #c1272d;
   font-size: 15px;
   font-weight: 700;
   color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   text-transform: uppercase;
   font-weight: 400;
   -webkit-transition: 0.5s;
@@ -614,11 +586,7 @@ ul {
 
 /* line 56, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_button.scss */
 .btn_3:hover {
-<<<<<<< HEAD
-  background-color: #b08ead;
-=======
   background-color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   color: #fff;
 }
 
@@ -650,11 +618,7 @@ ul {
 /* line 79, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_button.scss */
 .btn_2:hover {
   color: #fff !important;
-<<<<<<< HEAD
-  background-color: #b08ead;
-=======
   background-color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 @media (max-width: 991px) {
@@ -668,11 +632,7 @@ ul {
 
 /* line 94, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_button.scss */
 .btn_4 {
-<<<<<<< HEAD
-  color: #b08ead;
-=======
   color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   font-size: 15px;
   font-weight: 700;
   margin-top: 53px;
@@ -707,11 +667,7 @@ ul {
   color: #fff;
   border: 1px solid #edeff2;
   text-transform: uppercase;
-<<<<<<< HEAD
-  background-color: #b08ead;
-=======
   background-color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   cursor: pointer;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -781,14 +737,9 @@ ul {
 }
 
 /* line 14, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
-<<<<<<< HEAD
 .blog_area a:hover,
 .blog_area a :hover {
-  color: #b08ead;
-=======
-.blog_area a:hover, .blog_area a :hover {
   color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 /* line 20, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
@@ -1294,11 +1245,7 @@ ul {
 
 /* line 540, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
 .blog_details a:hover {
-<<<<<<< HEAD
-  color: #b08ead !important;
-=======
   color: #c1272d !important;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 /* line 545, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
@@ -1366,11 +1313,7 @@ ul {
   left: 10px;
   display: block;
   color: #fff;
-<<<<<<< HEAD
-  background-color: #b08ead;
-=======
   background-color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -1593,11 +1536,7 @@ ul {
 
 /* line 835, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-<<<<<<< HEAD
-  background: #b08ead;
-=======
   background: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;
@@ -1845,11 +1784,7 @@ ul {
 
 /* line 1201, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
 .single-post-area .blog-author a:hover {
-<<<<<<< HEAD
-  color: #b08ead;
-=======
   color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 /* line 1206, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
@@ -2173,13 +2108,8 @@ ul {
 
 /* line 1496, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
 .single_sidebar_widget .btn_1:hover {
-<<<<<<< HEAD
-  color: #b08ead !important;
-  border: 1px solid #b08ead;
-=======
   color: #c1272d !important;
   border: 1px solid #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 /*============ End Blog Single Styles  =============*/
@@ -2205,11 +2135,7 @@ ul {
 
 /* line 18, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_single_blog.scss */
 .single_blog_post .single_blog .single_appartment_content p a {
-<<<<<<< HEAD
-  color: #b08ead;
-=======
   color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 /* line 22, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_single_blog.scss */
@@ -2259,11 +2185,7 @@ ul {
 
 /* line 12, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
 .main_menu .main-menu-item ul li .nav-link {
-<<<<<<< HEAD
-  color: #4b3049;
-=======
   color: #86272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   font-size: 16px;
   padding: 35px 21px;
   font-family: "Rubik", sans-serif;
@@ -2307,11 +2229,7 @@ ul {
   max-width: 1140px;
   z-index: 999;
   text-align: center;
-<<<<<<< HEAD
-  background: #b08ead;
-=======
   background: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
 }
 
@@ -2371,11 +2289,7 @@ ul {
 
 /* line 89, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
 .main_menu a i {
-<<<<<<< HEAD
-  color: #4b3049 !important;
-=======
   color: #86272d !important;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   position: relative;
   z-index: 1;
   font-size: 20px;
@@ -2409,11 +2323,7 @@ ul {
 
 /* line 121, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
 .menu_fixed .active_color {
-<<<<<<< HEAD
-  color: #b08ead !important;
-=======
   color: #c1272d !important;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 /* line 127, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
@@ -2424,11 +2334,7 @@ ul {
   transform: scale(1, 0);
   display: block;
   border: 0px solid transparent;
-<<<<<<< HEAD
-  background-color: #b08ead;
-=======
   background-color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 /* line 135, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
@@ -2436,11 +2342,7 @@ ul {
   font-size: 14px;
   padding: 8px 20px !important;
   color: #fff !important;
-<<<<<<< HEAD
-  background-color: #b08ead;
-=======
   background-color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   text-transform: capitalize;
 }
 
@@ -2500,19 +2402,11 @@ ul {
   .dropdown:hover .show {
     transform: scale(1);
     display: block;
-<<<<<<< HEAD
-    color: #b08ead;
-  }
-  /* line 208, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
-  .dropdown .dropdown-item:hover {
-    color: #b08ead !important;
-=======
     color: #c1272d;
   }
   /* line 208, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
   .dropdown .dropdown-item:hover {
-    color:#c1272d !important;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
+    color: #c1272d !important;
   }
   /* line 213, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
   .navbar-brand img {
@@ -2608,11 +2502,7 @@ ul {
   content: "";
   left: 0;
   bottom: 0;
-<<<<<<< HEAD
-  background-color: #b08ead;
-=======
   background-color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
   width: 196px;
   height: 618px;
 }
@@ -2698,11 +2588,7 @@ ul {
 
 /* line 70, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_banner.scss */
 .banner_part .banner_text h1 span {
-<<<<<<< HEAD
-  color: #b08ead;
-=======
   color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 /* line 74, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_banner.scss */
@@ -2864,11 +2750,7 @@ ul {
 .single_product_list .single_product_content h5 {
   font-weight: 500;
   font-size: 20px;
-<<<<<<< HEAD
-  color: #b08ead;
-=======
   color: #c1272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 @media (max-width: 991px) {
@@ -2888,11 +2770,7 @@ ul {
 
 /* line 36, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_single_product.scss */
 .single_product_list .single_product_content h2 a {
-<<<<<<< HEAD
-  color: #4b3049;
-=======
   color: #86272d;
->>>>>>> 480f5a67f357eda5a94421ee1a9ca5e4b197a275
 }
 
 /* line 38, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_single_product.scss */
@@ -4146,7 +4024,8 @@ input:focus {
 }
 
 /* line 300, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_product.scss */
-.p_filter_widgets .list li.active a:before, .p_filter_widgets .list li:hover a:before {
+.p_filter_widgets .list li.active a:before,
+.p_filter_widgets .list li:hover a:before {
   background: #c1272d;
   border-color: #c1272d;
 }
@@ -5692,7 +5571,7 @@ input:focus {
 
 /* line 1650, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_product.scss */
 .billing_details .contact_form .form-group .creat_account a {
-  color:#c1272d;
+  color: #c1272d;
 }
 
 /* line 1658, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_product.scss */
@@ -6072,9 +5951,24 @@ input:focus {
 
 /* line 1960, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_product.scss */
 .login_part .login_part_text {
-  background-image: -moz-linear-gradient(90deg, #c1272d 0%, #86272d 64%, #c1272d 100%);
-  background-image: -webkit-linear-gradient(90deg, #c1272d 0%, #86272d 64%, #c1272d 100%);
-  background-image: linear-gradient(90deg, #c1272d 0%, #86272d 64%, #c1272d 100%);
+  background-image: -moz-linear-gradient(
+    90deg,
+    #c1272d 0%,
+    #86272d 64%,
+    #c1272d 100%
+  );
+  background-image: -webkit-linear-gradient(
+    90deg,
+    #c1272d 0%,
+    #86272d 64%,
+    #c1272d 100%
+  );
+  background-image: linear-gradient(
+    90deg,
+    #c1272d 0%,
+    #86272d 64%,
+    #c1272d 100%
+  );
   background-size: 200% auto;
 }
 
